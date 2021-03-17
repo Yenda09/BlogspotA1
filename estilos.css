@@ -1,5 +1,9 @@
 body h1{
+<<<<<<< HEAD
     color: violet;
+=======
+    color: yellow;
+>>>>>>> cabecera1
     text-align: center;
 }
 body p{
