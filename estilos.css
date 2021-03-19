@@ -1,9 +1,22 @@
+<<<<<<< HEAD
 .header{
+=======
+body h1{
+    color: yellow;
+    text-align: center;
+}
+body p{
+    color: darkgreen;
+    text-align: center;
+}
+.footer{
+>>>>>>> footer
     color: white;
     background-color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
+<<<<<<< HEAD
 }
 .main{
     color:#333;
@@ -14,4 +27,6 @@
     width: 70%;
     margin: 0 15%;
     padding: 0;
+=======
+>>>>>>> footer
 }
